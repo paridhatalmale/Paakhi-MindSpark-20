@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <title>PAAKHI MindSpark'20</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+    <meta name="keywords" content="Exert Design Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+	SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony Ericsson, Motorola web design" />
+    <script>
+        addEventListener("load", function() {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+
+    </script>
+    <!-- Custom Theme files -->
+    <link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
+    <link href="css/style.css" type="text/css" rel="stylesheet" media="all">
+    <!-- font-awesome icons -->
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <!-- //Custom Theme files -->
+    <!-- online-fonts -->
+    <link href="//fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800" rel="stylesheet">
+    <!-- //online-fonts -->
+</head>
+
+<body>
+  <section class="background-image" id="home">
+    
+
+
+    <section class="main-banner" id="home">
+        <div class="header-top-w3layouts text-right">
+            <ul id="menu">
+                <li>
+                    <input id="check02" type="checkbox" name="menu" />
+                    <label for="check02"><span class="fa fa-bars" aria-hidden="true"></span></label>
+                    <ul class="submenu">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="#about" class="scroll">Paakhi</a></li>
+                        <li><a href="#gallery" class="scroll">Gallery</a></li>
+                        <li><a href="#testimonials" class="scroll">About Us</a></li>
+                        
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div class="container">
+            <div class="baner-info-w3ls text-left">
+
+                <h1 class="mx-auto mt-4"><br><br></h1>
+                <a class="btn btn-primary mt-lg-5 mt-3 agile-link-bnr scroll" href="#about" role="button">Know More</a>
+                <div class="banner-high-lights text-left">
+                    <div class="rotate">
+                        <a href="#about" class="scroll">
+                               <span class="fa fa-long-arrow-down"></span>
+						</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+    <!-- what we do -->
+    <section class="wedo py-lg-5 py-5" id="about">
+        <div class="container py-lg-5">
+            <div class="text-center">
+                <h3 class="tittle_head">I AM STRONG, I AM BEAUTIFUL, I AM ENOUGH.
+</h3>
+                <p class="main_p mt-4 mb-4 pt-2 text-center mx-auto">Started as a social cause in 2015, Paakhi, the social initiative of MindSpark has aimed to help women embrace their true potential. Through Paakhi we intend to innovate, strategize and execute measures that would touch a million lives and inspire a sense of responsibility towards the world at large. We intend to produce a ripple effect which will grow with every edition of MindSpark. From grassroot activism to worldwide action, we are entering an exciting period of history where the world expects balance between the two genders. We notice its absence and celebrate its presence. So here’s to making a difference!</p>
+            </div>
+
+        </div>
+    </section>
+    <!-- //what we do -->
+    <!-- banner-bottom1 -->
+    <section class="banner-bottom" id="news">
+        <div class="banner-top row middle-grids">
+            <div class="col-lg-4 advantage-grid-info1">
+                <div class="advantage_left2 text-center">
+
+                </div>
+            </div>
+            <div class="col-lg-8 advantage-grid-info">
+                <div class="advantage_left">
+                    <h3><u>Health and Hygiene during Menstruation Awareness Campaign:</u> <br></h3>
+                    <p class="mt-4">In hopes of helping the underprivileged parts of society, Paakhi conducted this campaign in the PMC School Hadapsar, on 12th March.The school girls were informed about the personal hygiene,
+                      problems faced due to lack of nutrition during periods and were given sanitary pads to encourage good hygiene practices.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- //banner-bottom1 -->
+    <!-- banner-bottom2 -->
+
+    <!-- //banner-bottom2 -->
+    <!-- banner-bottom3 -->
+
+    <!-- //banner-bottom3 -->
+    <!-- services -->
+
+    <!-- //services -->
+    <!--//team -->
+
+    <!--//team -->
+    <!-- Gallery -->
+    <section class="gallery py-5" id="gallery">
+        <div class="container">
+            <div class="inner-sec-wthree py-lg-5 py-3">
+                <div class="text-center">
+                    <h3 class="tittle_head">SHOWCASE<br> </h3>
+                    <h2>Social Campaigns.</h2>
+                    <p class="main_p mt-4 mb-4 pt-2 text-center mx-auto"></p>
+                </div>
+                <div class="row news-grids mt-lg-5 mt-4 text-center">
+                    <div class="col-md-4 gal-img">
+                        <a href="#gal1"><img src="images/g1.jpg" alt="gallery img" class="img-fluid"></a>
+                    </div>
+                    <div class="col-md-4 gal-img">
+                        <a href="#gal2"><img src="images/g3.jpg" alt="gallery img" class="img-fluid"></a>
+                    </div>
+                    <div class="col-md-4 gal-img">
+                        <a href="#gal3"><img src="images/g4.jpg" alt="gallery img" class="img-fluid"></a>
+                    </div>
+
+                </div>
+            </div>
+            <!-- popup-->
+            <div id="gal1" class="pop-overlay animate">
+                <div class="popup">
+                    <img src="images/g1.jpg" alt="Popup Image" class="img-fluid" />
+                    <p class="mt-4">Paakhi<br>MindSpark'20</p>
+                    <a class="close" href="#gallery">&times;</a>
+                </div>
+            </div>
+            <!-- //popup -->
+
+            <!-- popup-->
+            <div id="gal2" class="pop-overlay animate">
+                <div class="popup">
+                    <img src="images/g3.jpg" alt="Popup Image" class="img-fluid" />
+                    <p class="mt-4">Paakhi<br>MindSpark'20</p>
+                    <a class="close" href="#gallery">&times;</a>
+                </div>
+            </div>
+            <!-- //popup -->
+            <!-- popup-->
+            <div id="gal3" class="pop-overlay animate">
+                <div class="popup">
+                    <img src="images/g4.jpg" alt="Popup Image" class="img-fluid" />
+                    <p class="mt-4">Paakhi<br>MindSpark'20</p>
+                    <a class="close" href="#gallery">&times;</a>
+                </div>
+            </div>
+            <!-- //popup3 -->
+            <!-- popup-->
+
+            <!-- //popup -->
+        </div>
+    </section>
+    <!--testimonials-->
+    <section class="testimonials py-5" id="testimonials">
+        <div class="container">
+            <div class="inner-sec-wthree py-lg-5 py-4">
+                <div class="text-center">
+                    <h3 class="tittle_head">ABOUT US: </h3>
+                    <p class="main_p mt-4 mb-4 pt-2 text-center mx-auto"><h4>MindSpark</h4><br>MindSpark is the annual national level technical festival of College of Engineering, Pune. (COEP)<br>............................................................................................................<br><br><h4>PAAKHI</h4><br>Paakhi, the social event of MindSpark has aimed to help women embrace their true potential.<br>
+............................................................................................................</p>
+                </div>
+
+
+
+            </div>
+        </div>
+    </section>
+    <!-- footer -->
+    
+        <div class="container py-lg-5">
+            <div class="text-center">
+                <h3 class="tittle_head text-black">FOLLOW US: </h3>
+                <p class="main_p mt-4 mb-3 pt-2 text-center mx-auto"></p>
+            </div>
+
+
+        </div>
+        <div class="cpy-right text-center pb-5">
+            <ul class="social_section_1info mb-lg-4">
+                <li><a href="https://www.facebook.com/coepmindspark"><span class="fa fa-facebook-f"></span></a></li>
+                <li><a href="https://twitter.com/COEPMindSpark"><span class="fa fa-twitter"></span></a></li>
+                <li><a href="https://www.instagram.com/coep_mindspark/"><span class="fa fa-instagram"></span></a></li>
+
+            </ul>
+
+            <a href="#home" class="move-top scroll"><span class="fa fa-angle-double-up" aria-hidden="true"></span></a>
+        </div>
+    
+    <!-- //footer -->
+
+</body>
+
+</html>
